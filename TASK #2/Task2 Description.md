@@ -6,4 +6,4 @@
 #### * _Implementation: [color_identification.py](https://github.com/sansuthi/Computer-Vision-The-Sparks-Foundation/blob/main/TASK%20%232/color_identification.py)_
 #### * _LinkedIn Post: [Link](https://www.linkedin.com/posts/sansuthi_gripjuly21-internship-thesparksfoundation-activity-6817024433551671296-saQA)_
 #### * _Sample Output:_
-![Image](https://github.com/sansuthi/Computer-Vision-The-Sparks-Foundation/blob/main/TASK%20%232/output.gif)
+![Image](https://github.com/sansuthi/Computer-Vision-The-Sparks-Foundation/blob/main/TASK%20%232/sample.gif)
