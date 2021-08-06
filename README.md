@@ -4,5 +4,5 @@
 ---
 Selection Certificate      |  Completion Certificate
 :-------------------------:|:-------------------------:
-<img src="internship.png">  |  <img src="Certificate.png">
+<img src="documents/selected.png">  |  <img src="documents/completed.png">
 ---
