@@ -2,6 +2,7 @@
 
 ### * _[Color Identification in Images](https://github.com/sansuthi/Computer-Vision-The-Sparks-Foundation/blob/main/TASK%20%232/Task2%20Description.md)_
 ---
-<img src="Certificate.png" width="60%" height="60%">
-
+Selection Certificate      |  Completion Certificate
+:-------------------------:|:-------------------------:
+<img src="internship.png">  |  <img src="Certificate.png">
 ---
